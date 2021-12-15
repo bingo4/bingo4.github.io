@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bingo4.github.io</id>
     <title>Bingo4</title>
-    <updated>2021-12-14T09:13:00.679Z</updated>
+    <updated>2021-12-15T03:28:31.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bingo4.github.io"/>
     <link rel="self" href="https://bingo4.github.io/atom.xml"/>
@@ -11,21 +11,12 @@
     <icon>https://bingo4.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Bingo4</rights>
     <entry>
-        <title type="html"><![CDATA[Try]]></title>
-        <id>https://bingo4.github.io/post/try/</id>
-        <link href="https://bingo4.github.io/post/try/">
+        <title type="html"><![CDATA[网络杂货铺]]></title>
+        <id>https://bingo4.github.io/post/zahuopu/</id>
+        <link href="https://bingo4.github.io/post/zahuopu/">
         </link>
-        <updated>2021-12-14T09:12:36.000Z</updated>
-        <content type="html"><![CDATA[<p>try</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello]]></title>
-        <id>https://bingo4.github.io/post/hello/</id>
-        <link href="https://bingo4.github.io/post/hello/">
-        </link>
-        <updated>2021-12-13T07:56:31.000Z</updated>
-        <content type="html"><![CDATA[<p>Hello</p>
+        <updated>2011-11-11T03:11:11.000Z</updated>
+        <content type="html"><![CDATA[<p>本博客用于收藏各路网络资源，以备不时之需，自行验证收藏内容！如有不妥之处，麻烦联系删除，谢谢~</p>
 ]]></content>
     </entry>
 </feed>
