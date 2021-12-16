@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bingo4.github.io</id>
     <title>Bingo4</title>
-    <updated>2021-12-15T05:07:03.594Z</updated>
+    <updated>2021-12-16T08:41:47.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bingo4.github.io"/>
     <link rel="self" href="https://bingo4.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://bingo4.github.io/images/avatar.png</logo>
     <icon>https://bingo4.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Bingo4</rights>
+    <entry>
+        <title type="html"><![CDATA[百度网盘]]></title>
+        <id>https://bingo4.github.io/post/panbaidu/</id>
+        <link href="https://bingo4.github.io/post/panbaidu/">
+        </link>
+        <updated>2021-12-12T04:12:12.000Z</updated>
+        <content type="html"><![CDATA[<p>最美证件照修图、证件照大师插件 、证件照视频教程、服装、五官、PSD模板<br>
+https://pan.baidu.com/s/1HguCzdLmez0HHkDc8YdKKQ 提取码: mwgn</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try]]></title>
+        <id>https://bingo4.github.io/post/try/</id>
+        <link href="https://bingo4.github.io/post/try/">
+        </link>
+        <updated>2011-12-12T04:12:12.000Z</updated>
+        <content type="html"><![CDATA[<p>试一试<br>
+by Bingo4</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络杂货铺]]></title>
         <id>https://bingo4.github.io/post/zahuopu/</id>
